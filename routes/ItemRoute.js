@@ -7,7 +7,7 @@ import {
   getItemsByCategory,
   getItemsBySubCategory,
   searchItemByName,
-} from "../controllers/itemController.js";
+} from "../controllers/ItemController.js";
 
 const router = express.Router();
 
