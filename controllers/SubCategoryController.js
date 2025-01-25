@@ -1,4 +1,4 @@
-import SubCategory from "../models/Subcategory.js";
+import SubCategory from "../models/SubCategory.js";
 
 // Handle errors in one place
 const handleError = (res, error, message = "An error At SubCategory") => {

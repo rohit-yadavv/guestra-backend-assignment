@@ -1,4 +1,4 @@
-import Item from "../models/item.js";
+import Item from "../models/Item.js";
 
 // Centralized error handling function
 const handleError = (res, error, message = "An error occurred") => {
