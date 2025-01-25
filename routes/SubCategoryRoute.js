@@ -5,7 +5,7 @@ import {
   getAllSubCategories,
   getSubCategoriesByCategory,
   getSubCategoryByIdOrName,
-} from "../controllers/subCategoryController.js";
+} from "../controllers/SubCategoryController.js";
 
 const router = express.Router();
 
