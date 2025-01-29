@@ -4,7 +4,7 @@
 
 ### Submitted by: Rohit Yadav
 
-#### Live Link:  [https://guestra-backend-assignment.onrender.com/](https://github.com/rohit-yadavv/guestra-backend-assignment)
+#### Live Link:  [https://guestra-backend-assignment.onrender.com/](https://guestra-backend-assignment.onrender.com/)
 This is a Node.js backend for managing a menu system, allowing you to create, manage, and retrieve categories, sub-categories, and items. The API supports creating, updating, deleting, and searching for items, along with managing their associated categories and sub-categories.
 
 ## Installation Instructions
